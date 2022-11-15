@@ -2,14 +2,14 @@
   "name": "parcel-project-template",
   "version": "2.0.0",
   "description": "",
-  "homepage": "https://nadtosonna.github.io/js-team-project-4",
+  "homepage": "https://github.com/Elena-Holz/library-movies.git",
   "scripts": {
     "start": "parcel src/*.html",
-    "build": "parcel build src/*.html --public-url /js-team-project-4/"
+    "build": "parcel build src/*.html --public-url /library-movies/"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/nadtosonna/js-team-project-4.git"
+    "url": "git+https://github.com/Elena-Holz/library-movies.git"
   },
   "keywords": [],
   "author": "Alexander Repeta <alexander.repeta@gmail.com>",
